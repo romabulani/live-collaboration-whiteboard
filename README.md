@@ -69,5 +69,5 @@ Returns a simple welcome message.
 - **draw:** Triggered when a user draws on the whiteboard. The drawing data is sent to the server and broadcasted to other clients.
 - **clear:** Triggered when the whiteboard is cleared, and it resets the drawing data for all users.
 
-##Frontend URL
+## Frontend URL
 The frontend is hosted on [Netlify](https://draw-on-whiteboard.netlify.app/), and it is designed to communicate with the backend server using WebSockets.
